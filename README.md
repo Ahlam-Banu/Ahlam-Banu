@@ -21,11 +21,14 @@
 <h2 align="center"> 🤝🏻 Contact </h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ahlam-fazlu-rahman/](https://www.linkedin.com/in/ahlam-fazlu-rahman/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/Ahlam-Banu-LinkedIn-blue"></a>
-<a href="mailto:ahlambanu.univ@gmail.com">
-<img alt="Email" src="https://img.shields.io/badge/Email-ahlambanu.univ%40gmail.com-red?style=flat-square&logo=Gmail"></a>
+  <a href="https://www.linkedin.com/in/ahlam-fazlu-rahman/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Ahlam-Banu-LinkedIn-blue">
+  </a>
+  <a href="mailto:ahlambanu.univ@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-ahlambanu.univ%40gmail.com-red?style=flat-square&logo=Gmail">
+  </a>
 </p>
+
 
 <h2 align="center">⚙️ Tools and technologies that I have worked with and am interested in</h2>
 
