@@ -105,20 +105,19 @@
       </a>
       <br>Kali
     </td>
-    
  <!-- <td align="center" width="96">
       <a href="#Kubuntu" >
         <img src="https://seeklogo.com/images/K/kubuntu-logo-975308A107-seeklogo.com.png" width="48" height="48" alt="Kubuntu" />
       </a>
       <br>Kubuntu
     </td> -->
-     <td align="center" width="96">
+  <td align="center" width="96">
       <a href="#intellij" >
         <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" width="48" height="48" alt="IntelliJ"/>
       </a>
       <br>IntelliJ IDEA
-    </td>
      </td>
+      </td>
         </tr>
     <td align="center"  width="96">
       <a href="#vscode">
