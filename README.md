@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahlam-fazlu-rahman/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/ahlam-fazlu-rahman-LinkedIn-blue">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/ahlam%2Dfazlu%2Drahman-LinkedIn-blue">
   </a>
   <a href="mailto:ahlambanu.univ@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-ahlambanu.univ%40gmail.com-red?style=flat-square&logo=Gmail">
