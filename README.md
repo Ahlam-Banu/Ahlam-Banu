@@ -3,7 +3,7 @@
 ![Ahlam Banu Fazlu Rahman](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Greetings%2C+my+name+is+Ahlam+Banu+Fazlu+Rahman)
 - 👋 Hi, I’m @Ahlam-Banu
 - 👀 I’m interested in software Development
-- 🌱 I’m currently learning Docker,Kuberneties and AWS
+<!-- - 🌱 I’m currently learning Docker,Kuberneties and AWS -->
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ahlambanu.univ@gmail.com
 
@@ -50,10 +50,10 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
-    <td align="center" width="96">
+   <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>RestApi
-    </td>
+    </td> -->
   <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
@@ -74,14 +74,14 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="#MySQL">
         <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="MySQL" />
@@ -99,12 +99,12 @@
       </a>
       <br>Ubuntu
     </td>
-  <td align="center" width="96">
+ <!-- <td align="center" width="96">
       <a href="#Kubuntu" >
         <img src="https://seeklogo.com/images/K/kubuntu-logo-975308A107-seeklogo.com.png" width="48" height="48" alt="Kubuntu" />
       </a>
       <br>Kubuntu
-    </td>
+    </td> -->
      </td>
         </tr>
     <td align="center"  width="96">
@@ -123,10 +123,10 @@
       <a href="#C"> <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" alt="C" width="40" height="40"/> </a> 
       <br>C
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="#C++"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="40" height="40"/> </a> 
       <br>C++
-    </td>
+    </td>-->
     <td align="center" width="96">
       <a href="#Java"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="40" height="40"/> </a> 
       <br>Java
@@ -147,6 +147,6 @@
 
 
 <!---
-ahmedjanwar/ahmedjanwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ahlam-Banu/Ahlam-Banu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
