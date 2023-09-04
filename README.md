@@ -105,12 +105,19 @@
       </a>
       <br>Kali
     </td>
+    
  <!-- <td align="center" width="96">
       <a href="#Kubuntu" >
         <img src="https://seeklogo.com/images/K/kubuntu-logo-975308A107-seeklogo.com.png" width="48" height="48" alt="Kubuntu" />
       </a>
       <br>Kubuntu
     </td> -->
+     <td align="center" width="96">
+      <a href="#intellij" >
+        <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" />
+      </a>
+      <br>IntelliJ IDEA
+    </td>
      </td>
         </tr>
     <td align="center"  width="96">
@@ -130,7 +137,7 @@
       <br>C
     </td>
     <!-- <td align="center" width="96">
-      <a href="#C++"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="40" height="40"/> </a> 
+      <a href="#C++"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.pn" alt="C++" width="40" height="40"/> </a> 
       <br>C++
     </td>-->
     <td align="center" width="96">
