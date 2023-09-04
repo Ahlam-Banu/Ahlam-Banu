@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahlam-fazlu-rahman/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Ahlam-Banu-LinkedIn-blue">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/ahlam-fazlu-rahman-LinkedIn-blue">
   </a>
   <a href="mailto:ahlambanu.univ@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-ahlambanu.univ%40gmail.com-red?style=flat-square&logo=Gmail">
@@ -138,7 +138,7 @@
 
 <br/>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=ahmedjanwar&hide=contribs,prs" alt="GitHub stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Ahlam-Banu&hide=contribs,prs" alt="GitHub stats" />
 </p>
 
 
