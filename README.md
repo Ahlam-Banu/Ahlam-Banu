@@ -99,6 +99,12 @@
       </a>
       <br>Ubuntu
     </td>
+     <td align="center" width="96">
+      <a href="#kali" >
+        <img src="https://seeklogo.com/images/K/kali-linux-dragon-logo-7F7F24447E-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+      </a>
+      <br>Kali
+    </td>
  <!-- <td align="center" width="96">
       <a href="#Kubuntu" >
         <img src="https://seeklogo.com/images/K/kubuntu-logo-975308A107-seeklogo.com.png" width="48" height="48" alt="Kubuntu" />
