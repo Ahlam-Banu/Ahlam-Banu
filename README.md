@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome 👋</h1>
 
-![Ahlam Banu Fazlu Rahman](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Greetings%2C+my+name+is+Ahlam+Banu+Fazlu+Rahman)
+![Ahlam Banu Fazlu Rahman](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Greetings%2C+my+name+is+Ahlam+Banu+Fazlu+Rahman)
 - 👋 Hi, I’m @Ahlam-Banu
 - 👀 I’m interested in software Development
 - 🌱 I’m currently learning Docker,Kuberneties and AWS
@@ -11,18 +11,18 @@
 <h2 align="center">👨🏻‍💻 Skills</h2>
 
 - Front-End, Back-End, Scripting
-- C, C++, C#, Java, Python
+- C, C#, Java, Python
 - HTML, CSS, JavaScript
 - PHP & mySQL
 - Windows, Linux
-- Docker, Kuberneties
-- AWS
+<!--- Docker, Kuberneties
+- AWS -->
 
 <h2 align="center"> 🤝🏻 Contact </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahlam-fazlu-rahman/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/ahlam%2Dfazlu%2Drahman-LinkedIn-blue">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Ahlam%20Fazlu%20Rahman-LinkedIn-blue">
   </a>
   <a href="mailto:ahlambanu.univ@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-ahlambanu.univ%40gmail.com-red?style=flat-square&logo=Gmail">
