@@ -114,7 +114,7 @@
     </td> -->
      <td align="center" width="96">
       <a href="#intellij" >
-        <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" />
+        <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" width="48" height="48" alt="IntelliJ"/>
       </a>
       <br>IntelliJ IDEA
     </td>
