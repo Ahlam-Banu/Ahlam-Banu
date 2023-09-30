@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome 👋</h1>
 
-![Ahlam Banu Fazlu Rahman](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Greetings%2C+my+name+is+Ahlam+Banu+Fazlu+Rahman)
+![Ahlam Banu Fazlu Rahman](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hi!%2C+my+name+is+Ahlam+Banu+Fazlu+Rahman)
 - 👋 Hi, I’m @Ahlam-Banu
 - 👀 I’m interested in software Development
 <!-- - 🌱 I’m currently learning Docker,Kuberneties and AWS -->
