@@ -3,9 +3,9 @@
 ![Ahlam Banu Fazlu Rahman](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hi!%2C+my+name+is+Ahlam+Banu+Fazlu+Rahman)
 - 👋 Hi, I’m @Ahlam-Banu
 - 👀 I’m interested in software Development
-<!-- - 🌱 I’m currently learning Docker,Kuberneties and AWS -->
+- 🌱 I’m currently learning Data Structures, Algorithms, Server Programming, C#
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me ahlambanu.univ@gmail.com
+- 📫 You can reach out to me at ahlambanu.univ@gmail.com
 
 
 <h2 align="center">👨🏻‍💻 Skills</h2>
