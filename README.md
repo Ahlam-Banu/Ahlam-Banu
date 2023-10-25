@@ -3,7 +3,7 @@
 ![Ahlam Banu Fazlu Rahman](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hi!%2C+my+name+is+Ahlam+Banu+Fazlu+Rahman)
 - 👋 Hi, I’m @Ahlam-Banu
 - 👀 I’m interested in software Development
-- 🌱 I’m currently learning Data Structures, Algorithms, Server Programming, C#
+- 🌱 I’m currently learning TypeScript, Java Server Programming and C#
 - 💞️ I’m looking to collaborate on any projects
 - 📫 You can reach out to me at ahlambanu.univ@gmail.com
 
