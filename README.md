@@ -5,7 +5,7 @@
 - 👀 I’m interested in software Development
 - 🌱 I’m currently learning TypeScript, Java Server Programming and C#
 - 💞️ I’m looking to collaborate on any projects
-- 📫 You can reach out to me at ahlambanu.univ@gmail.com
+- 📫 You can reach out to me at ahlambanu.univ@gmail.com or at e2101083@edu.vamk.fi
 
 
 <h2 align="center">👨🏻‍💻 Skills</h2>
